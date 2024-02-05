@@ -5,8 +5,6 @@ date:   2024-02-05 19:03:36 +0000
 categories: Windows
 ---
 
-### Manutenção Básica do Windows: Um Guia Completo
-
 A manutenção regular do sistema operacional Windows é crucial para garantir que o seu computador funcione de maneira eficiente e estável. Com o passar do tempo, arquivos temporários se acumulam, discos podem se fragmentar e arquivos do sistema podem se corromper, causando lentidão e até falhas no sistema. Felizmente, o Windows possui ferramentas integradas projetadas para lidar com esses problemas, ajudando a manter o seu PC em ótimo estado.
 
 Neste artigo, exploraremos um conjunto de procedimentos e comandos que você pode utilizar para realizar uma manutenção básica do seu sistema Windows. Este guia passo a passo incluirá instruções sobre como verificar a integridade dos arquivos do sistema com `sfc /scannow`, reparar a imagem do sistema com `DISM /Online /Cleanup-Image /RestoreHealth`, verificar e reparar o disco rígido com `chkdsk /R`, limpar arquivos desnecessários com a Limpeza de Disco, e desfragmentar o disco rígido para melhorar o desempenho. Vamos mergulhar nessas ferramentas e aprender como usá-las para manter seu sistema funcionando suavemente.
