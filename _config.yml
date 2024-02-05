@@ -1,0 +1,41 @@
+title: Your awesome title
+author: isaiaspereira307
+email: isaias.pereira@protonmail.com
+description: >
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: true
+
+sass:
+  sass_dir: _sass
+plainwhite:
+  name: Isaías Pereira
+  tagline: Developer.
+  date_format: "%b %-d, %Y"
+  sitemap: true
+  search: true
+  dark_mode: true
+  html_lang: "en"
+  condensed_mobile:
+    - home
+    - page
+    - post
+
+  social_links:
+    github:  isaiaspereira307
+    linkedIn: in/isaías-dos-santos-33505714b
+    email: isaias.pereira@protonmail.com
+
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: plainwhite
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
