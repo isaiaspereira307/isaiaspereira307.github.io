@@ -1,4 +1,4 @@
-title: Your awesome title
+title: My blog
 author: isaiaspereira307
 email: isaias.pereira@protonmail.com
 description: >
@@ -34,7 +34,6 @@ plainwhite:
 # - about.md
 
 # Build settings
-# theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
 
 plugins:
