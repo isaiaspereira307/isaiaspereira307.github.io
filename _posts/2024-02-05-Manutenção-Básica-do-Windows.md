@@ -2,7 +2,7 @@
 layout: post
 title:  "Manutenção Básica do Windows: Um Guia Completo"
 date:   2024-02-05 19:03:36 +0000
-categories: Windows
+categories: Windows Tecnologia
 ---
 
 A manutenção regular do sistema operacional Windows é crucial para garantir que o seu computador funcione de maneira eficiente e estável. Com o passar do tempo, arquivos temporários se acumulam, discos podem se fragmentar e arquivos do sistema podem se corromper, causando lentidão e até falhas no sistema. Felizmente, o Windows possui ferramentas integradas projetadas para lidar com esses problemas, ajudando a manter o seu PC em ótimo estado.
