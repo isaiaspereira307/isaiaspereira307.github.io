@@ -94,9 +94,7 @@ Este guia oferece uma seleção essencial de comandos do Vim, abrangendo desde n
 
 ### Trabalho com Guias
 - `:tabnew`: Nova guia.
-- `gt`:
-
- Próxima guia.
+- `gt`: Próxima guia.
 - `:tabfirst`, `:tablast`: Primeira/última guia.
 - `tabm n(position)`: Reorganizar guias.
 - `tabdo %s/foo/bar/g`: Executar comando em todas as guias.
