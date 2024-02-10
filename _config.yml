@@ -1,10 +1,8 @@
-title: My blog
+title: Geek Guidebook
 author: isaiaspereira307
 email: isaias.pereira@protonmail.com
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site talk about tecnology.
 show_excerpts: true
 
 sass:
