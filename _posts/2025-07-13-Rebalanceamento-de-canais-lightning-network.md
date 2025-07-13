@@ -5,8 +5,6 @@ date:   2025-07-13 14:37:00 +0000
 categories: Bitcoin
 ---
 
-# 🔄 Rebalanceamento de Canais na Lightning Network: Rebal In e Rebal Out
-
 A Lightning Network é uma tecnologia revolucionária que permite transações rápidas e com baixas taxas no Bitcoin. No entanto, para que os canais funcionem eficientemente, é necessário manter um equilíbrio entre a liquidez de entrada (**inbound**) e de saída (**outbound**). É aí que entra o **rebalanceamento de canais**, uma técnica fundamental para operadores de nós que desejam manter seus canais saudáveis e funcionais.
 
 Neste artigo, vamos entender os dois principais tipos de rebalanceamento: **Rebal In** e **Rebal Out**, com exemplos práticos e condições para que esses processos ocorram.
