@@ -2,10 +2,8 @@
 layout: post
 title:  "Guia Completo: Servidor PostgreSQL Seguro com Podman no Ubuntu"
 date:   2026-01-22 14:17:00 +0000
-categories: DevOps Segurança PostgreSQL
+categories: [DevOps, Segurança, Banco de Dados]
 ---
-
-## Introdução
 
 A segurança de bancos de dados é uma das preocupações mais críticas em ambientes de produção. Neste artigo, vou compartilhar um guia completo e prático para configurar um servidor PostgreSQL altamente seguro usando Podman no Ubuntu, abordando desde a containerização até a implementação de múltiplas camadas de segurança.
 

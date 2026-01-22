@@ -5,8 +5,6 @@ date:   2026-01-21 14:37:00 +0000
 categories: [Desenvolvimento, Boas Práticas, Arquitetura de Software]
 ---
 
-## Introdução
-
 No mundo do desenvolvimento de software, existem padrões que se tornam tão onipresentes que raramente paramos para questioná-los. O uso de **Exceptions (Exceções)** para controle de fluxo é um deles. No entanto, será que "jogar um erro" toda vez que algo não sai como o esperado é realmente a melhor prática?
 
 Neste artigo, exploramos por que o uso indiscriminado de exceções pode degradar a performance, dificultar a leitura do código e por que você deveria reservar o `throw` apenas para o que é verdadeiramente... excepcional.
